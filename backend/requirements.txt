@@ -1,0 +1,10 @@
+blacksheep
+uvicorn
+google-genai
+python-dotenv
+pydantic-settings
+google-cloud-storage
+google-cloud-core
+redis
+supabase
+httpx
